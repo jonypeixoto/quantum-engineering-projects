@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Quantum Computing GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/quantum-projects-readme.png" />
+    <img alt="Quantum Engineering GitHub README" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/quantum-engineering-readme.png" />
     <br>
     Quantum Projects
 </h1>
